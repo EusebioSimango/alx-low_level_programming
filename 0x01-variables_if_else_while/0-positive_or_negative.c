@@ -4,12 +4,10 @@
 /* more headers goes there */
 
 /**
- * main - Entry point
- * 
- * Description: print 'is positive' if the number is positive, otherwise print zero or negative 
- * 
- * Return: Always 0 (Sucess)
- */
+* main - Entry point
+* Description: print 'is positive' if the number is positive, otherwise print zero or negative 
+* Return: Always 0 (Sucess)
+*/
 /* betty style doc for function main goes there */
 int main(void)
 {
@@ -25,5 +23,5 @@ int main(void)
 	else
 		printf("%i is positive\n", n);
 	
-	return 0;
+	return (0);
 }
