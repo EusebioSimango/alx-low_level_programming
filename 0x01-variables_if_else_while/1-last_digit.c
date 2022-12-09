@@ -4,7 +4,9 @@
 /* more headers goes there */
 /**
  * main - Entry point
- * Description: 
+ * Description: print the last number and then,
+ * if it's greater than 5, print 'is greater than 5'
+ * otherwise is less than 6 and not zero or is zero
  * Return: Always 0 (Sucess)
 */
 /* betty style doc for function main goes there */
