@@ -11,7 +11,7 @@ int main(void)
 	int asciiLowerCase;
 	int asciiUpperCase;
 
-	for (asciiLowerCase = 97; asciiLoweCase < 123; asciiLowerCase++)
+	for (asciiLowerCase = 97; asciiLowercase < 123; asciiLowerCase++)
 		putchar(asciiLowerCase);
 	for (asciiUpperCase = 65; asciiUpperCase < 91; asciiUpperCase++)
 		putchar(asciiUpperCase);
