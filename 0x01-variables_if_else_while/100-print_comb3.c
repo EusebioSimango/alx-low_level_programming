@@ -3,13 +3,13 @@
 /**
  * main - Entry point
  * Description: print only the smallest comb. of 2 digit.
- * Retuurn: Always 0 (Success)
+ * Return: Always 0 (Success)
 */
 int main(void)
 {
 	int firstDigit;
 	int secondDigit;
-	
+
 	firstDigit = 48;
 	while (1 == 1)
 	{
