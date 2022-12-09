@@ -5,7 +5,8 @@
 
 /**
 * main - Entry point
-* Description: print 'is positive' if the number is positive, otherwise print zero or negative.
+* Description: print 'is positive' if the number is positive
+*  otherwise print zero or negative.
 * Return: Always 0 (Sucess)
 */
 /* betty style doc for function main goes there */
