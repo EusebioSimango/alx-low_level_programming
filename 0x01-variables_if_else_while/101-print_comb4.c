@@ -10,7 +10,7 @@ int main(void)
 	int a;
 	int b;
 	int c;
-	
+
 	a = 48;
 	while (1 == 1)
 	{
