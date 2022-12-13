@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+int print_alphabet();
 int print_alphabet()
 {
 	int letter;
