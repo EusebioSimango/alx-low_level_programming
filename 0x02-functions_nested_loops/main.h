@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int print_alphabet();
-int print_alphabet()
+int print_alphabet(void);
+int print_alphabet(void)
 {
 	int letter;
 
