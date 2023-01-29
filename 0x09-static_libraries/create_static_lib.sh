@@ -1,3 +1,7 @@
 #!/bin/bash
-gcc -c *.c
-ar -rcs liball.a *.o
+for file in *.c;
+do
+    gcc -c $file;
+done
+
+ar src liball.a *.o
