@@ -6,6 +6,7 @@
  *       written in the 0x14-file_io directory.
  */
 
+#include <stddef.h>
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>

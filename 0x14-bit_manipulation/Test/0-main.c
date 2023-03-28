@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "../main.h"
+#include "../0-binary_to_uint.c"
 
 /**
  * main - check the code for ALX School students.
